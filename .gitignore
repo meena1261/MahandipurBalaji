@@ -1,0 +1,40 @@
+# ignore secret files
+Readme2.md
+Readme3.md
+
+# Node.js dependencies
+/node_modules/
+
+# Next.js build output
+/.next/
+
+# Production build
+/out/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# .env files containing sensitive data
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Coverage directory for testing
+/coverage/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
